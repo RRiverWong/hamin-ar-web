@@ -1,0 +1,7 @@
+.git
+.DS_Store
+node_modules
+dist
+IMG_8286.heic
+target.jpg
+*.log

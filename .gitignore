@@ -1,0 +1,8 @@
+node_modules
+dist
+.vercel
+.DS_Store
+*.log
+public/assets/duck.glb
+/IMG_8286.heic
+/target.jpg
